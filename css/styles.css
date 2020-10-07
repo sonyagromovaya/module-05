@@ -182,7 +182,7 @@ img {
     border: none;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(./img/button_left.png);
+    background-image: url(img/button_left.png);
 }
 
 .slider-button-img-right-button {
@@ -192,7 +192,7 @@ img {
     border: none;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(./img/button_right.png);
+    background-image: url(img/button_right.png);
 }
 
 .slider-button-img-left-button:hover {
@@ -339,19 +339,19 @@ img {
 }
 
 .overlay-list-item-heart {
-    background-image: url(./img/heart.png);
+    background-image: url(img/heart.png);
 }
 
 .overlay-list-item-rarrows {
-    background-image: url(./img/rarrows.png);
+    background-image: url(img/rarrows.png);
 }
 
 .overlay-list-item-clock {
-    background-image: url(./img/clock.png);
+    background-image: url(img/clock.png);
 }
 
 .overlay-list-item-card-box {
-    background-image: url(./img/card.png);
+    background-image: url(img/card.png);
 }
 
 .overlay-list-item-card-name {
